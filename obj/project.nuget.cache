@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D504W/nhD81/CSaR4qigo5N8jKqQO4kMgRP/YxbuVgHJujOozE+OdGDqBfGhvLikz11lUDckbMwMXi+NMcgXog==",
+  "dgSpecHash": "RX3vZdOg916mJsEsOVxKZgHOUbySDtmwPgw6DH1FwOm9JCmU4qB7RsX/tcDtAYZc7tCx5hWsoUxetub/c+hG0Q==",
   "success": true,
-  "projectFilePath": "/Users/danu_m/Documents/Dotnet/HelloWorld/C_Web_Api/C_Web_Api.csproj",
+  "projectFilePath": "/Users/danu_m/Documents/Dotnet/HelloWorld/.NetCoreWebApi/C_Web_Api.csproj",
   "expectedPackageFiles": [
     "/Users/danu_m/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/danu_m/.nuget/packages/microsoft.aspnetcore.html.abstractions/2.2.0/microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

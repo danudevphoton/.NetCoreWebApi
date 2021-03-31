@@ -7326,11 +7326,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/danu_m/Documents/Dotnet/HelloWorld/C_Web_Api/C_Web_Api.csproj",
+      "projectUniqueName": "/Users/danu_m/Documents/Dotnet/HelloWorld/.NetCoreWebApi/C_Web_Api.csproj",
       "projectName": "C_Web_Api",
-      "projectPath": "/Users/danu_m/Documents/Dotnet/HelloWorld/C_Web_Api/C_Web_Api.csproj",
+      "projectPath": "/Users/danu_m/Documents/Dotnet/HelloWorld/.NetCoreWebApi/C_Web_Api.csproj",
       "packagesPath": "/Users/danu_m/.nuget/packages/",
-      "outputPath": "/Users/danu_m/Documents/Dotnet/HelloWorld/C_Web_Api/obj/",
+      "outputPath": "/Users/danu_m/Documents/Dotnet/HelloWorld/.NetCoreWebApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/danu_m/.nuget/NuGet/NuGet.Config"
